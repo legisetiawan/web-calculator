@@ -1,0 +1,24 @@
+{
+  "name": "web-calculator",
+  "version": "1.0.0",
+  "description": "web calculator course dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web-calculator"
+  },
+  "keywords": [
+    "web",
+    "calculator",
+    "kalkulator",
+    "calculator",
+    "dicoding\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "course",
+    "dicoding"
+  ],
+  "author": "legi-setiawan",
+  "license": "MIT"
+}
